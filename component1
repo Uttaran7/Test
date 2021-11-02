@@ -6,4 +6,4 @@ Testing merge conflict
 Editing from github.
 Testing merge conflict 2nd time
 From developer side merge conflict 2.
-Hello , testing Jenkins
+Hello , testing Jenkins poll SCM and build periodically
